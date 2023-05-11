@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate",
+      "image": "https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649_1280.jpg"
+      },
+    {
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut ",
+      "image": "https://cdn.pixabay.com/photo/2016/11/30/15/23/apples-1873078_1280.jpg"
+      },
+    {
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate p",
+      "image": "https://cdn.pixabay.com/photo/2016/12/13/00/13/rabbit-1903016_1280.jpg"
+    },
+    {
+      "id": 4,
+      "title": "eum et est occaecati",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/03/25/bicycles-1867046_1280.jpg"
+    }
+ 
+  ]
+}
