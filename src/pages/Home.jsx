@@ -25,14 +25,14 @@ import { Link, NavLink } from 'react-router-dom'
 
 
 
-const Home = ({user}) => {
+const Home = () => {
 
 
 
   return (
     <div className='home'>
       <div className='header-title'>
-      <p>Welcome back {user && user.user.firstName}</p>
+      <p>Welcome to my first blog!</p>
       <h3>My first Blog</h3>
       </div>
       <img src={myImg} alt="" />
